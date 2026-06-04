@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=html5">
 
 <!--
 **warddd17/warddd17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
