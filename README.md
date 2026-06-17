@@ -8,6 +8,7 @@ My main interests are frontend development and competitive programming.
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC">
   <img alt="Static Badge" src="https://img.shields.io/badge/Latex-black?style=for-the-badge&logo=Latex&logoColor=white&color=%23008080">
 
 
