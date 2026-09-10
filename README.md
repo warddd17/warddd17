@@ -16,8 +16,7 @@ My main interests are frontend development and competitive programming.
 ## Competitve programming
 I have a member of the Competitive Programming Club from the Engineering School at UNAM. I have participated at official contest such as ICPC, IEEExtreme, and other not official contest such as XVII Annual “Donald Knuth” Programming Contest. In my most recent participation on ICPC me and my team have placed at top 100 at the national contest.
 ### My stats
-
-
+![My stats](./stats-septiembre-2026.png)
   
 
 
